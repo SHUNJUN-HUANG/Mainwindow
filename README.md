@@ -3,7 +3,7 @@
 
 # mainwindow1
 
-![mainwindow1](https://github.com/nckugs/mainwindow1/raw/main/41243244.png)
+![mainwindow1](https://github.com/SHUNJUN-HUANG/Mainwindow/blob/main/41243244.png)
 
 
 
